@@ -1,0 +1,12 @@
+link for learning :http://aka.ms/MVA-Voucher
+
+#Module Overview
+1.The purpos for Power Shell
+      *Improved managenment and automation
+      *Manage real-time
+      *Manage Large Scale
+
+2.Installing Powre Shell -Windows Managenment Framework
+2.Launching Powre Shell for the administratoo
+3.Customize the shell for comfort
+4.Getting fimilar with shell
